@@ -72,7 +72,7 @@ footer {
     nav {
            background-image: url("../images/logo-medium.png")
        }
-   
+
    }
 
    @media (max-width: 800px){
@@ -80,4 +80,8 @@ footer {
            background-image: url("../images/logo-small.png")
        }
    
+    #main {
+        width: 100%;
+    }
+
    }
